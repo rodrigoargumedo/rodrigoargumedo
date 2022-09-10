@@ -2,11 +2,11 @@
 
 My name is Rodrigo Argumedo. Often called by Rod.
 
-- 📫 How to reach me: rodrigo@rodrigoargumedo.me
+- 📫 How to reach me: rodrigo@argumedo.link
 - 🔭 I’m currently working on [Hackalist](https://github.com/Hackalist/Hackalist.github.io) as a maintainer.
 - 🛠 I'm currently building projects on [Raspberry Pi Pico RP2040](https://www.raspberrypi.org/products/raspberry-pi-pico/) and [Adafruit's series of products](https://adafruit.com)
-- 🌱 I’m currently learning Python, CircuitPython, and Ruby.
-- 💬 Ask me about T-SQL.
+- 🌱 I’m currently learning Python, and CircuitPython.
+- 💬 Ask me about T-SQL and Ruby.
 
 <!--
 **rodrigoargumedo/rodrigoargumedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
